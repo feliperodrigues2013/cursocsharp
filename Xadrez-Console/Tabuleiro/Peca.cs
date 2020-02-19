@@ -1,4 +1,4 @@
-﻿namespace Tabuleiro
+﻿namespace tabuleiro
 {
     class Peca
     {
@@ -14,5 +14,6 @@
             this.qtdeMovimentos = 0;
             this.tab = tab;
         }
+
     }
 }
